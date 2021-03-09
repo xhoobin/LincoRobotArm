@@ -12,6 +12,16 @@ Q群:624506541
 
 
 
+## 打印参数
+
+材料 pla 
+
+层高 0.2
+
+填充率 20%
+
+
+
 ## 样品照片
 
 视频：https://www.bilibili.com/video/BV1D5411N7zT/
